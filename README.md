@@ -26,7 +26,7 @@
 
 I am Aïssata -shortened Ai-, a French-Swedish CS student, living in Stockholm. I go by DaJa as well.
 
-- 🔭 3rd year student at the ![Royal Institute of Technology](https://www.kth.se/).
+- 🔭 3rd year student at the [Royal Institute of Technology](https://www.kth.se/).
 
 - 🌱 I’m currently learning Rust 🦀, classic algorithms and graph theory
 
@@ -34,8 +34,9 @@ I am Aïssata -shortened Ai-, a French-Swedish CS student, living in Stockholm. 
 
 - 💬 Ask me about anything!
 
-- ❌ ... and I try to maintain a blog with my competitive programming/programming puzzles called ![Wrong Answer](https://wronganswer.blog/)
-- ⚡ Fun fact: when the world is not closed down by the coronavirus, I run a![programming club](https://wronganswer.blog/index_tellus/) in my neighborhood!
+- ❌ ... and I try to maintain a blog with my competitive programming/programming puzzles called [Wrong Answer](https://wronganswer.blog/).
+
+- ⚡ Fun fact: when the world is not closed down by the coronavirus, I run a [programming club](https://wronganswer.blog/index_tellus/) in my neighborhood!
 
 
 ---

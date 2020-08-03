@@ -30,11 +30,8 @@ I am Aïssata -shortened Ai-, a French-Swedish CS student, living in Stockholm. 
 
 - 🌱 I’m currently learning Rust 🦀, classic algorithms and graph theory
 
-- 🤔 I’m looking for help with anything that has to do with 🦀!
 
-- 💬 Ask me about anything!
-
-- ❌ ... and I try to maintain a blog with my competitive programming/programming puzzles called [Wrong Answer](https://wronganswer.blog/).
+- ❌ I try to write a blog about competitive programming/puzzles called [Wrong Answer](https://wronganswer.blog/).
 
 - ⚡ Fun fact: when the world is not closed down by the coronavirus, I run a [programming club](https://wronganswer.blog/index_tellus/) in my neighborhood!
 

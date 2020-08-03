@@ -26,7 +26,7 @@
 
 I am Aïssata -shortened Ai-, a French-Swedish CS student, living in Stockholm. I go by DaJa as well.
 
-- 🔭 3rd year student at the ![Royal Institute of Technology.](https://www.kth.se/)
+- 🔭 3rd year student at the ![Royal Institute of Technology](https://www.kth.se/).
 
 - 🌱 I’m currently learning Rust 🦀, classic algorithms and graph theory
 

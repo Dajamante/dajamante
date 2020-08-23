@@ -28,7 +28,7 @@ I am Aïssata -shortened Ai-, a French-Swedish CS student, living in Stockholm. 
 
 - 🔭 2nd year CS student at the [Royal Institute of Technology](https://www.kth.se/).
 
-- 🌱 I’m currently learning Rust 🦀, classic algorithms and graph theory
+- 🌱 I’m currently learning Rust 🦀, classic algorithms and graph theory. Check my [first Rust robot](https://github.com/Dajamante/avr-car)!
 
 
 - ❌ I try to write a blog about competitive programming/puzzles called [Wrong Answer](https://wronganswer.blog/).

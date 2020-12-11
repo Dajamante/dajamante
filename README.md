@@ -38,10 +38,6 @@ I am Aïssata -shortened Ai-, a French-Swedish CS student, living in Stockholm. 
 ---
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dajamante&count_private=true&show_icons=true&theme=gruvbox)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dajamante&layout=compact&hide=javascript,html,jupyter%20notebook)
 
 
 

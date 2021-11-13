@@ -21,7 +21,7 @@
 ---
 
 
-### 🙆🏾‍♀️ About Me
+### 👩🏽‍🦱 About Me
 
 
 I am Aïssata -shortened Ai-, a French-Swedish CS student, living in Stockholm. I go by DaJa as well.

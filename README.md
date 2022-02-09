@@ -24,15 +24,17 @@
 ### 👩🏽‍🦱 About Me
 
 
-I am Aïssata -shortened Ai-, a French-Swedish CS student, living in Stockholm. I go by DaJa as well.
+I am Aïssata -pronunced AJ-SA-TA.
 
-- 🔭 CS ~~2nd~~ ~~3rd (yay!) year~~ tired master student at the [Royal Institute of Technology](https://www.kth.se/).
+- Working at [@ferrous-systems](https://github.com/ferrous-systems)
 
-- 🌱 I’m currently learning Rust 🦀, classic algorithms and graph theory. Check my [first Rust robot](https://github.com/Dajamante/avr-car)!
+- 🔭 CS master student at the [Royal Institute of Technology](https://www.kth.se/).
 
-- ❌ I have a zombie blog that was not updated in ~~a year~~ years, about competitive programming and puzzles [Wrong Answer](https://wronganswer.blog/).
+- 🌱 Always learning Rust 🦀 and Embedded Rust. Check my [first Rust robot](https://github.com/Dajamante/avr-car)!
 
-- ⚡ Fun fact: I did run a [programming club](https://wronganswer.blog/index_tellus/) in my neighborhood, maybe we will start someday again!
+- ❌ I have a zombie blog that was not updated in ~~a year~~ years [Wrong Answer](https://wronganswer.blog/).
+
+- ⚡ Fun fact: I used to run a [programming club](https://wronganswer.blog/index_tellus/) in my neighborhood.
 
 
 ---

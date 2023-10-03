@@ -28,7 +28,7 @@ I am Aïssata -pronunced AJ-SA-TA.
 
 - Working at [@ferrous-systems](https://github.com/ferrous-systems)
 
-- 🔭 CS master student at the [Royal Institute of Technology](https://www.kth.se/).
+- 🔭 CS master from the [Royal Institute of Technology](https://www.kth.se/).
 
 - 🌱 Always learning Rust 🦀 and Embedded Rust. Check my [first Rust robot](https://github.com/Dajamante/avr-car)!
 

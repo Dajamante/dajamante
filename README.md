@@ -32,8 +32,6 @@ I am Aïssata -pronunced AJ-SA-TA.
 
 - 🌱 Always learning Rust 🦀 and Embedded Rust. Check my [first Rust robot](https://github.com/Dajamante/avr-car)!
 
-- ❌ I have a zombie blog that was not updated in ~~a year~~ years [Wrong Answer](https://wronganswer.blog/).
-
 - ⚡ Fun fact: I used to run a [programming club](https://wronganswer.blog/index_tellus/) in my neighborhood.
 
 

@@ -24,7 +24,7 @@
 ### 👩🏽‍🦱 About Me
 
 
-I am Aïssata -pronunced AJ-SA-TA.
+I am Aïssata
 
 - Working at [@ferrous-systems](https://github.com/ferrous-systems)
 
